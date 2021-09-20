@@ -1,0 +1,16 @@
+C:\Users\EmiPat\Code\TechSwitch teaching\FizzBuzz_Demo\bin\Debug\net5.0\FizzBuzz_Demo.exe
+C:\Users\EmiPat\Code\TechSwitch teaching\FizzBuzz_Demo\bin\Debug\net5.0\FizzBuzz_Demo.deps.json
+C:\Users\EmiPat\Code\TechSwitch teaching\FizzBuzz_Demo\bin\Debug\net5.0\FizzBuzz_Demo.runtimeconfig.json
+C:\Users\EmiPat\Code\TechSwitch teaching\FizzBuzz_Demo\bin\Debug\net5.0\FizzBuzz_Demo.runtimeconfig.dev.json
+C:\Users\EmiPat\Code\TechSwitch teaching\FizzBuzz_Demo\bin\Debug\net5.0\FizzBuzz_Demo.dll
+C:\Users\EmiPat\Code\TechSwitch teaching\FizzBuzz_Demo\bin\Debug\net5.0\ref\FizzBuzz_Demo.dll
+C:\Users\EmiPat\Code\TechSwitch teaching\FizzBuzz_Demo\bin\Debug\net5.0\FizzBuzz_Demo.pdb
+C:\Users\EmiPat\Code\TechSwitch teaching\FizzBuzz_Demo\obj\Debug\net5.0\FizzBuzz_Demo.csprojAssemblyReference.cache
+C:\Users\EmiPat\Code\TechSwitch teaching\FizzBuzz_Demo\obj\Debug\net5.0\FizzBuzz_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmiPat\Code\TechSwitch teaching\FizzBuzz_Demo\obj\Debug\net5.0\FizzBuzz_Demo.AssemblyInfoInputs.cache
+C:\Users\EmiPat\Code\TechSwitch teaching\FizzBuzz_Demo\obj\Debug\net5.0\FizzBuzz_Demo.AssemblyInfo.cs
+C:\Users\EmiPat\Code\TechSwitch teaching\FizzBuzz_Demo\obj\Debug\net5.0\FizzBuzz_Demo.csproj.CoreCompileInputs.cache
+C:\Users\EmiPat\Code\TechSwitch teaching\FizzBuzz_Demo\obj\Debug\net5.0\FizzBuzz_Demo.dll
+C:\Users\EmiPat\Code\TechSwitch teaching\FizzBuzz_Demo\obj\Debug\net5.0\ref\FizzBuzz_Demo.dll
+C:\Users\EmiPat\Code\TechSwitch teaching\FizzBuzz_Demo\obj\Debug\net5.0\FizzBuzz_Demo.pdb
+C:\Users\EmiPat\Code\TechSwitch teaching\FizzBuzz_Demo\obj\Debug\net5.0\FizzBuzz_Demo.genruntimeconfig.cache
